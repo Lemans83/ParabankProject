@@ -19,7 +19,6 @@ public class MyDriver {
             e.printStackTrace();
         }
     }
-
     public static void quitWindows() {
         driver.quit();
     }
