@@ -10,6 +10,13 @@ public class Date {
         return Integer.valueOf(myOnlyformat.format(currDate));
     }
 
+    public static String getCurrentDate() {
+        java.util.Date currDate = new java.util.Date();
+        SimpleDateFormat onlyDate = new SimpleDateFormat("MM/dd/yyyy");
+        String today = onlyDate.format(currDate);
+        return today;
+    }
+
 
 
 
