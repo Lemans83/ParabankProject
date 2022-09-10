@@ -4,9 +4,8 @@ import org.openqa.selenium.By;
 
 public class LoginInfoPage extends Commands {
 
-    //LOCATORS
+//LOCATORS
 //TC_03
-    // By forgotLogInfoLocator = By.linkText("Forgot login info?");
     By forgotLogInfoLocator = By.xpath("//a[text()='Forgot login info?']");
     By verMessDisplayedLocator = By.xpath("//h1[@class='title']");
     By firstNameLocator = By.xpath("//input[@id='firstName']");
@@ -19,7 +18,7 @@ public class LoginInfoPage extends Commands {
     By findMyloginInfobutton = By.xpath("//input[@value='Find My Login Info']");
     By errorMessageLocator = By.xpath("//h1[@class='title']");
 
-    // METODS
+// METODS
 //TC_03
     public void clickLogInfolink() {
         clickIt(forgotLogInfoLocator);

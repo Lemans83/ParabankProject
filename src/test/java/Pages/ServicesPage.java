@@ -18,10 +18,9 @@ public class ServicesPage extends Commands {
  public boolean veriSoapHeadingMessageDisplayed(){
      return isElementDisplayed(soapHeadingLocator);
  }
-  public void scrollDowntoElement(){
+ public void scrollDowntoElement(){
      scrollToElementIntoView(parabankServicesLocator);
     }
-
  public boolean verParabankServiceIsDisplayed(){
      return isElementDisplayed(parabankServicesLocator);
  }

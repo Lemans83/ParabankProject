@@ -10,7 +10,6 @@ import io.cucumber.java.en.When;
 import org.junit.Assert;
 
 public class AboutUsSD {
-
     AboutUsPage aboutUs = new AboutUsPage();
 
 //TC_04

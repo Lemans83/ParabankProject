@@ -28,7 +28,6 @@ public class LoginPage extends Commands {
    public void clickLoginBtn(){
       clickIt(logInButton);
    }
-
    public boolean verTitleMessageIsDisplayed(){
     return isElementDisplayed(titleMessageDisplayed);
    }
@@ -37,9 +36,9 @@ public class LoginPage extends Commands {
    public void uernameIsInvalid (String value){
       type(invalidusername, value);
    }
-
-    public void passwordIsInvalid (String value){
+   public void passwordIsInvalid (String value){
         type(invalidpassword, value);
+//        findWebElementWithWait(invalidpassword);
     }
    public boolean errorMessageIsDisplayed(){
       return isElementDisplayed(errorMessageDisplayed);

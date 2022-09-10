@@ -13,13 +13,12 @@ public class LoginInfoSD {
 
     LoginInfoPage logInfoPage = new LoginInfoPage();
 
-    // TC_03
+// TC_03
     @When("^I click login info$")
     public void clicLoginInfo() {
         logInfoPage.clickLogInfolink();
         Misc.pause(2);
     }
-
     @Then("^I verify the Customer Lookup message is displayed$")
     public void customerLookupMessageIsDisplayed() {
         Assert.assertTrue(logInfoPage.verCustLookUpDisplayed());
@@ -35,7 +34,6 @@ public class LoginInfoSD {
         logInfoPage.addZipCode("11214");
         logInfoPage.addSsnAddress("111-23-5055");
     }
-
     @And("I click Find My Login Info button")
     public void loginInfoButton() {
         logInfoPage.MyLoginInfoButton();

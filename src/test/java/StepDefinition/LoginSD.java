@@ -28,7 +28,7 @@ public class LoginSD {
    @And("^I enter valid password (.+)")
     public void enterPassword(String value){
         loginPB.myPassword(value);
-        Misc.pause(2);
+       // Misc.pause(2);
 
    }
 
@@ -52,7 +52,7 @@ public class LoginSD {
   @And("^I enter invalid password (.+)$")
     public void invPassword (String value){
         loginPB.passwordIsInvalid(value);
-      Misc.pause(3);
+        Misc.pause(5);
   }
 
   @Then("^I verify Error message is displayed$")
