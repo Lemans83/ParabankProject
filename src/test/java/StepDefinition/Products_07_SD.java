@@ -1,18 +1,20 @@
 package StepDefinition;
 
-import Pages.Products_7;
-import io.cucumber.java.en.Given;
+import Helper.Misc;
+import Pages.Products_07;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.testng.Assert;
 
-public class Products_7_SD {
+public class Products_07_SD {
 
-    Products_7 Prod = new Products_7();
+    Products_07 Prod = new Products_07();
 
     @When("^I go to Products on the main page$")
     public void clickProductButton () {
+
         Prod.clickProducts();
+        Misc.pause(2);
     }
     @Then("^I Verify Innovation and Intelligent Software Testing Platform message is displayed$")
     public void VerifyMessageDisplayed () {

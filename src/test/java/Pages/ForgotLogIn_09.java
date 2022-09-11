@@ -1,5 +1,6 @@
 package Pages;
 
+import Helper.Misc;
 import org.openqa.selenium.By;
 
 public class ForgotLogIn_09 extends Commands{
@@ -16,13 +17,17 @@ public class ForgotLogIn_09 extends Commands{
     By emptySSNMsgLocator = By.xpath("//span[@id='ssn.errors']");
 
     public void clickForgotLogInButton () {
+
         clickIt(forgotLogInLocator);
+        Misc.pause(2);
     }
     public boolean verifyLookUpTextDisplayed () {
         return isElementDisplayed(lookUpLocator);
     }
     public void clickFindMyLogInButton () {
+
         clickIt(findMyLoginLocator);
+        Misc.pause(2);
     }
     public boolean verifyFinfMyLogInEnabled () {
         return isElementEnabled(findMyLoginLocator);

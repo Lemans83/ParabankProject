@@ -8,7 +8,7 @@ public class ContactUs_10 extends Commands {
     By locationsLocator = By.xpath("//ul[@class='leftmenu']//a[text()='Locations']");
     By acceptCookiesLocator = By.xpath("//a[@id='hs-eu-confirmation-button']");
     By parasoftContinuousTextLocator = By.xpath("//div[@class='inner-banner-cont']//h1[contains(text(),'The Parasoft Continuous Quality Platform:')]");
-    By exploreButtonLocator = By.xpath("//a[text()='Explore Parasoft Solutions']");
+    By exploreButtonLocator = By.xpath("//a[text()='Explore Products']");
     By contactUsButtonLocator = By.xpath("//div[@class='inner-banner-cont']//following::div[@class='inner-banner-btn']//following::a[text()='Contact Us']");
     By contactUsTextLocator = By.xpath("//strong[contains(text(),'Contact us to learn how Parasoft’s automated software testing solutions can help')]");
     By emailLocator = By.xpath("//input[@id='email-7e18a454-1995-49f5-a907-ddc7be450646']");
@@ -45,8 +45,10 @@ public class ContactUs_10 extends Commands {
     }
     public void typeEmail (String email) {
         Misc.pause(2);
-        clickIt(acceptCookiesLocator);
         type(emailLocator,email);
+    }
+    public void dismissCookies () {
+        clickIt(acceptCookiesLocator);
     }
     public void typeFirstName (String firstName) {
         type(firstNameLocator,firstName);

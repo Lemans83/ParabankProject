@@ -33,6 +33,11 @@ public class ContactUs_10_SD {
     public void verifyContactUsTextDisplayed () {
         Assert.assertTrue(CU.verifyContactUsTextDisplayed(),"Text is not Displayed to the user");
     }
+
+    @And("^I close cookies button$")
+    public void clickCookies () {
+        CU.dismissCookies();
+    }
     @And("^I type my Email address (.+)$")
     public void enterEmail (String email) {
         CU.typeEmail(email);

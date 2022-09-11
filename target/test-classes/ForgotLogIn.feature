@@ -1,5 +1,7 @@
 @errorMsgIsDisplayedWithEmptyEntry   @sanity
 
+  @TC_09
+
 Feature: Forgot Login
 
 
