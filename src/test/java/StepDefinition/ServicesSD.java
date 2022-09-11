@@ -22,7 +22,7 @@ public class ServicesSD {
   @Then("I verify Available Bookstore SOAP services is displayed")
     public void verSaopHeading(){
         Assert.assertTrue(serviceComp.veriSoapHeadingMessageDisplayed());
-        Misc.pause(2);
+        //Misc.pause(2);
     }
 
   @And("I scroll down to Parabank Services section")
