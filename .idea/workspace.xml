@@ -4,45 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03af4e77-3d27-4647-99bf-d4edb9f00f4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ParabankProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/Drivers/chromedriver" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/ContactUs_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/ContactUs_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/ForgotLogIn_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/ForgotLogIn_09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/Products_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/Products_07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinition/ContactUs_10_SD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinition/ContactUs_10_SD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinition/MakeDeposit_6_SD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinition/MakeDeposit_06_SD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinition/Products_7_SD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinition/Products_07_SD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/ContactUs.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/ContactUs.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/Date.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Date.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/ForgotLogIn.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/ForgotLogIn.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/MakeDeposit.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/MakeDeposit.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/Products.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Products.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ContactUs.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Date.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ForgotLogIn.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Helper/Date.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Helper/Misc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/MakeDeposit.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/Commands$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/Commands.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/ContactUs_10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/Date_08.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/ForgotLogIn_09.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/MakeDeposit_06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/Products_7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Products.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinition/ContactUs_10_SD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinition/Date_08_SD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinition/ForgotLogIn_09_SD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinition/MakeDeposit_6_SD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinition/Products_7_SD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Web/MyDriver.class" beforeDir="false" />
-    </list>
+    <list default="true" id="03af4e77-3d27-4647-99bf-d4edb9f00f4a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
