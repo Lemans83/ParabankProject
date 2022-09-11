@@ -26,7 +26,7 @@ public class AboutUsSD {
     @And("I click accept cookies")
       public void clickAcceptCookies (){
         aboutUs.acceptCookies();
-        Misc.pause(3);
+        //Misc.pause(3);
     }
 
     @And("I scroll down to Parasoft Continuous Qaility section")
@@ -37,7 +37,7 @@ public class AboutUsSD {
     @Then("I verify Parasoft Continuous Quality section")
       public void verifyParasoftContinQualityDisplayed(){
       Assert.assertTrue(aboutUs.parasoftContniuousQualityDisplayed());
-      Misc.pause(2);
+     // Misc.pause(2);
        MyDriver.quitWindows();
    }
 

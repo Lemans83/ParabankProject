@@ -17,12 +17,12 @@ public class LoginInfoSD {
     @When("^I click login info$")
     public void clicLoginInfo() {
         logInfoPage.clickLogInfolink();
-        Misc.pause(2);
+       // Misc.pause(2);
     }
     @Then("^I verify the Customer Lookup message is displayed$")
     public void customerLookupMessageIsDisplayed() {
         Assert.assertTrue(logInfoPage.verCustLookUpDisplayed());
-        Misc.pause(2);
+       // Misc.pause(2);
     }
     @And("^I fill out the information in the box$")
     public void typeFisrtName() {
@@ -37,7 +37,7 @@ public class LoginInfoSD {
     @And("I click Find My Login Info button")
     public void loginInfoButton() {
         logInfoPage.MyLoginInfoButton();
-        Misc.pause(2);
+     //   Misc.pause(2);
     }
     @Then("I verify the error message is displayed")
         public void messageErrorIsDisplayed(){

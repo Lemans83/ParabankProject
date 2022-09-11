@@ -29,7 +29,6 @@ public class LoginSD {
     public void enterPassword(String value){
         loginPB.myPassword(value);
        // Misc.pause(2);
-
    }
 
    @And("I click login button")
@@ -52,12 +51,12 @@ public class LoginSD {
   @And("^I enter invalid password (.+)$")
     public void invPassword (String value){
         loginPB.passwordIsInvalid(value);
-        Misc.pause(5);
+       // Misc.pause(5);
   }
 
   @Then("^I verify Error message is displayed$")
     public void errorMessage(){
-        Assert.assertTrue(loginPB.errorMessageIsDisplayed());
+        Assert.assertTrue(loginPB.errorMessageIsDisplayed()); // This step has Bug because it runs with invalid credentials.
         MyDriver.quitWindows();
       }
 }
