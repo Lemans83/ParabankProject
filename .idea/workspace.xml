@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03af4e77-3d27-4647-99bf-d4edb9f00f4a" name="Default Changelist" comment="" />
+    <list default="true" id="03af4e77-3d27-4647-99bf-d4edb9f00f4a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Cucumber Java.Scenario: Verify read me in the bottom of the home page is enabled to the user">
+  <component name="RunManager" selected="Cucumber Java.Scenario: Verify The Parasoft Continuous Quality Platform is displayed for the user">
     <configuration name="Scenario: Verify Contact us message is displayed" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/ContactUs.feature" />
@@ -51,15 +53,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: Verify Explore Parasoft Solutions button is enabled" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Verify Thank You! message is displayed" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/ContactUs.feature" />
       <option name="GLUE" value="StepDefinition" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="ParabankProject" />
-      <option name="NAME_FILTER" value="^Verify Explore Parasoft Solutions button is enabled$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify Explore Parasoft Solutions button is enabled$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Verify Explore Parasoft Solutions button is enabled" />
+      <option name="NAME_FILTER" value="^Verify Thank You\! message is displayed$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify Thank You\! message is displayed$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify Thank You! message is displayed" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -71,15 +73,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: Verify Thank You! message is displayed" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Verify The Parasoft Continuous Quality Platform is displayed for the user" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/ContactUs.feature" />
       <option name="GLUE" value="StepDefinition" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="ParabankProject" />
-      <option name="NAME_FILTER" value="^Verify Thank You\! message is displayed$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify Thank You\! message is displayed$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Verify Thank You! message is displayed" />
+      <option name="NAME_FILTER" value="^Verify The Parasoft Continuous Quality Platform is displayed for the user$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify The Parasoft Continuous Quality Platform is displayed for the user$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify The Parasoft Continuous Quality Platform is displayed for the user" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Scenario: Verify The Parasoft Continuous Quality Platform is displayed for the user" />
         <item itemvalue="Cucumber Java.Scenario: Verify read me in the bottom of the home page is enabled to the user" />
         <item itemvalue="Cucumber Java.Scenario: Verify listed date on the main page is matching current date" />
         <item itemvalue="Cucumber Java.Scenario: Verify Thank You! message is displayed" />
         <item itemvalue="Cucumber Java.Scenario: Verify Contact us message is displayed" />
-        <item itemvalue="Cucumber Java.Scenario: Verify Explore Parasoft Solutions button is enabled" />
       </list>
     </recent_temporary>
   </component>
