@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03af4e77-3d27-4647-99bf-d4edb9f00f4a" name="Default Changelist" comment="" />
+    <list default="true" id="03af4e77-3d27-4647-99bf-d4edb9f00f4a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Default" beforeDir="false" afterPath="$PROJECT_DIR$/reports/Default" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Web/MyDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Web/MyDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/ContactUs_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/ContactUs_10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/Date_08.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/Date_08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/ForgotLogIn_09.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/ForgotLogIn_09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/MakeDeposit_06.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/MakeDeposit_06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/Products_07.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/Products_07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinition/ContactUs_10_SD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinition/ContactUs_10_SD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinition/Date_08_SD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinition/Date_08_SD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinition/ForgotLogIn_09_SD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinition/ForgotLogIn_09_SD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinition/MakeDeposit_06_SD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinition/MakeDeposit_06_SD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinition/Products_07_SD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinition/Products_07_SD.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +39,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-17.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/function/Function.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -34,29 +53,31 @@
     </option>
   </component>
   <component name="ProjectId" id="2E8NhHpFoMQPi8GPjGjE3PsdPvT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propCompiler"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="JUnit.TestRunner">
-    <configuration name="Scenario: Verify Contact us message is displayed" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: ForgotLogIn" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/ContactUs.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/ForgotLogIn.feature" />
       <option name="GLUE" value="StepDefinition" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="ParabankProject" />
-      <option name="NAME_FILTER" value="^Verify Contact us message is displayed$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify Contact us message is displayed$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Verify Contact us message is displayed" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: ForgotLogIn" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -68,15 +89,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: Verify Explore Parasoft Solutions button is enabled" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Verify error message is displayed next to address empty entry" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/ContactUs.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/ForgotLogIn.feature" />
       <option name="GLUE" value="StepDefinition" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="ParabankProject" />
-      <option name="NAME_FILTER" value="^Verify Explore Parasoft Solutions button is enabled$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify Explore Parasoft Solutions button is enabled$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Verify Explore Parasoft Solutions button is enabled" />
+      <option name="NAME_FILTER" value="^Verify error message is displayed next to address empty entry$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify error message is displayed next to address empty entry$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify error message is displayed next to address empty entry" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -88,15 +109,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: Verify Thank You! message is displayed" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Verify listed date on the main page is matching current date" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/ContactUs.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Date.feature" />
       <option name="GLUE" value="StepDefinition" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="ParabankProject" />
-      <option name="NAME_FILTER" value="^Verify Thank You\! message is displayed$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify Thank You\! message is displayed$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Verify Thank You! message is displayed" />
+      <option name="NAME_FILTER" value="^Verify listed date on the main page is matching current date$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify listed date on the main page is matching current date$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify listed date on the main page is matching current date" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -108,15 +129,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: Verify The Parasoft Continuous Quality Platform is displayed for the user" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Verify valid login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/ContactUs.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Login.feature" />
       <option name="GLUE" value="StepDefinition" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="ParabankProject" />
-      <option name="NAME_FILTER" value="^Verify The Parasoft Continuous Quality Platform is displayed for the user$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify The Parasoft Continuous Quality Platform is displayed for the user$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Verify The Parasoft Continuous Quality Platform is displayed for the user" />
+      <option name="NAME_FILTER" value="^Verify valid login$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify valid login$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify valid login" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -140,10 +161,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.TestRunner" />
-        <item itemvalue="Cucumber Java.Scenario: Verify Thank You! message is displayed" />
-        <item itemvalue="Cucumber Java.Scenario: Verify Contact us message is displayed" />
-        <item itemvalue="Cucumber Java.Scenario: Verify Explore Parasoft Solutions button is enabled" />
-        <item itemvalue="Cucumber Java.Scenario: Verify The Parasoft Continuous Quality Platform is displayed for the user" />
+        <item itemvalue="Cucumber Java.Scenario: Verify error message is displayed next to address empty entry" />
+        <item itemvalue="Cucumber Java.Feature: ForgotLogIn" />
+        <item itemvalue="Cucumber Java.Scenario: Verify listed date on the main page is matching current date" />
+        <item itemvalue="Cucumber Java.Scenario: Verify valid login" />
       </list>
     </recent_temporary>
   </component>
