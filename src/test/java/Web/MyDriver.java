@@ -40,7 +40,7 @@ public class MyDriver {
 //        } catch (InterruptedException e) {
 //           e.printStackTrace();
 //      }
- //  }
+//   }
 
     public static void quitWindows() {
         driver.quit();

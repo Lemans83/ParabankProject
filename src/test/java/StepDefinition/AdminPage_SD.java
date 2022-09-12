@@ -12,7 +12,7 @@ public class AdminPage_SD {
     Admin_Registration_News ParaLPage = new Admin_Registration_News();
 
     @Given("^I am on Parabank landing page$")
-    public void openPara() { MyDriver.launchUrlOnNewWindow("https://parabank.parasoft.com/parabank/index.htm"); }
+    public void openPara() { MyDriver.launchUrlOnNewWindow("https://parabank.parasoft.com/"); }
 
     @When("^I click Admin Page$")
     public void clickAdminPage() { ParaLPage.clickAdminPageBtn();

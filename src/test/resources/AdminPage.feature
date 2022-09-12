@@ -1,5 +1,5 @@
 Feature: AdminPage
-
+@TC15
   Scenario: Verify Administration message is displayed on Admin Page
     Given I am on Parabank landing page
     When I click Admin Page
