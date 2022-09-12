@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /Users/lemansk/Documents/git/ParabankProject/src/test/java/StepDefinition/LoginInfoSD.java
 /Users/lemansk/Documents/git/ParabankProject/src/test/java/Helper/Misc.java
 /Users/lemansk/Documents/git/ParabankProject/src/test/java/Helper/Date.java
@@ -11,3 +12,20 @@
 /Users/lemansk/Documents/git/ParabankProject/src/test/java/Pages/AboutUsPage.java
 /Users/lemansk/Documents/git/ParabankProject/src/test/java/StepDefinition/ServicesSD.java
 /Users/lemansk/Documents/git/ParabankProject/src/test/java/Pages/Commands.java
+=======
+/Users/lolieanabotros/Documents/git/ParabankProject/src/test/java/Web/MyDriver.java
+/Users/lolieanabotros/Documents/git/ParabankProject/src/test/java/Pages/ContactUs_10.java
+/Users/lolieanabotros/Documents/git/ParabankProject/src/test/java/StepDefinition/MakeDeposit_06_SD.java
+/Users/lolieanabotros/Documents/git/ParabankProject/src/test/java/StepDefinition/ForgotLogIn_09_SD.java
+/Users/lolieanabotros/Documents/git/ParabankProject/src/test/java/Helper/Misc.java
+/Users/lolieanabotros/Documents/git/ParabankProject/src/test/java/Pages/ForgotLogIn_09.java
+/Users/lolieanabotros/Documents/git/ParabankProject/src/test/java/Helper/Date.java
+/Users/lolieanabotros/Documents/git/ParabankProject/src/test/java/TestRunner.java
+/Users/lolieanabotros/Documents/git/ParabankProject/src/test/java/StepDefinition/Date_08_SD.java
+/Users/lolieanabotros/Documents/git/ParabankProject/src/test/java/StepDefinition/ContactUs_10_SD.java
+/Users/lolieanabotros/Documents/git/ParabankProject/src/test/java/StepDefinition/Products_07_SD.java
+/Users/lolieanabotros/Documents/git/ParabankProject/src/test/java/Pages/Date_08.java
+/Users/lolieanabotros/Documents/git/ParabankProject/src/test/java/Pages/Commands.java
+/Users/lolieanabotros/Documents/git/ParabankProject/src/test/java/Pages/Products_07.java
+/Users/lolieanabotros/Documents/git/ParabankProject/src/test/java/Pages/MakeDeposit_06.java
+>>>>>>> origin/ParabankFinal
