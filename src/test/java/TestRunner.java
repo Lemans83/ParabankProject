@@ -6,7 +6,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = {"src/test/resources"},
         glue = {"StepDefinition"},
-        tags = "@TC01",
+        tags = "@TC02",
 //        tags = "@TC_08",
 
         plugin = {"pretty","html:Reports/Default/"}

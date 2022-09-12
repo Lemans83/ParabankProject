@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03af4e77-3d27-4647-99bf-d4edb9f00f4a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/Default" beforeDir="false" afterPath="$PROJECT_DIR$/reports/Default" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/Default" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/Default" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Web/MyDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Web/MyDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/ContactUs_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/ContactUs_10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/Date_08.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/Date_08.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/ForgotLogIn_09.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/ForgotLogIn_09.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/MakeDeposit_06.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/MakeDeposit_06.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/Products_07.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/Products_07.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinition/ContactUs_10_SD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinition/ContactUs_10_SD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinition/Date_08_SD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinition/Date_08_SD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinition/ForgotLogIn_09_SD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinition/ForgotLogIn_09_SD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinition/MakeDeposit_06_SD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinition/MakeDeposit_06_SD.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinition/Products_07_SD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinition/Products_07_SD.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

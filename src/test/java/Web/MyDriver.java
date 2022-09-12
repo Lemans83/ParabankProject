@@ -15,33 +15,32 @@ public class MyDriver {
     private static WebDriver driver;
 
     public static void launchUrlOnNewWindow(String url) {
-//        Logger log = Logger.getLogger(MyDriver.class);
-//
-//        String sauceUrl = "https://oauth-mkarimovr-4cc8c:add4b24d-ff48-4933-a90b-0f9d545a3876@ondemand.us-west-1.saucelabs.com:443/wd/hub";
-//        DesiredCapabilities caps = DesiredCapabilities.chrome();
-//        caps.setCapability("version", "latest");
-//        caps.setCapability("platform","windows 10");
-//        try {
-//            driver = new RemoteWebDriver(new URL(sauceUrl), caps);
-//        } catch (MalformedURLException e){
-//            e.printStackTrace();
-//        }
-//        driver.get(url);
-//    }
 
-
-        System.setProperty("webdriver.chrome.driver", "./Drivers/chromedriver");
-        driver = new ChromeDriver();
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-        driver.get(url);
-
+        Logger log = Logger.getLogger(MyDriver.class);
+        String sauceUrl = "https://oauth-mkarimovr-4cc8c:add4b24d-ff48-4933-a90b-0f9d545a3876@ondemand.us-west-1.saucelabs.com:443/wd/hub";
+        DesiredCapabilities caps = DesiredCapabilities.chrome();
+        caps.setCapability("version", "latest");
+        caps.setCapability("platform","windows 10");
         try {
-           Thread.sleep(5000);
-        } catch (InterruptedException e) {
-           e.printStackTrace();
-      }
-
+            driver = new RemoteWebDriver(new URL(sauceUrl), caps);
+        } catch (MalformedURLException e){
+            e.printStackTrace();
+        }
+        driver.get(url);
     }
+
+// I dont know if i how to leave both suace lab and webdriver active in this method and so I just left sauce lab to run my testcases.
+//        System.setProperty("webdriver.chrome.driver", "./Drivers/chromedriver");
+//        driver = new ChromeDriver();
+//        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+//        driver.get(url);
+//
+//        try {
+//           Thread.sleep(5000);
+//        } catch (InterruptedException e) {
+//           e.printStackTrace();
+//      }
+ //  }
 
     public static void quitWindows() {
         driver.quit();
