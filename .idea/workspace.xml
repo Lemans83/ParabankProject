@@ -4,19 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03af4e77-3d27-4647-99bf-d4edb9f00f4a" name="Default Changelist" comment="">
+    <list default="true" id="525db399-cb8d-4877-a400-f4b4b2de41a9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/ParabankProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Reports/Default" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/Default" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Web/MyDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Web/MyDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Helper/Misc.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Helper/Misc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/AboutUsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/AboutUsPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/Commands$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/Commands$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/Commands.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/Commands.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/ContactUs_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/ContactUs_10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/Date_08.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/Date_08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/ForgotLogIn_09.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/ForgotLogIn_09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/LoginInfoPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/LoginInfoPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/MakeDeposit_06.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/MakeDeposit_06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/Products_07.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/Products_07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/ServicesPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/ServicesPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinition/ContactUs_10_SD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinition/ContactUs_10_SD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinition/Date_08_SD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinition/Date_08_SD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinition/ForgotLogIn_09_SD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinition/ForgotLogIn_09_SD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinition/MakeDeposit_06_SD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinition/MakeDeposit_06_SD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StepDefinition/Products_07_SD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StepDefinition/Products_07_SD.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CompilerWorkspaceConfiguration">
-    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -26,87 +43,43 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-17.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/function/Function.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="useMavenConfig" value="true" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
-  <component name="ProjectId" id="2E8NhHpFoMQPi8GPjGjE3PsdPvT" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectId" id="2EfooMsoxQ962eTRMIUY7r55Lyl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propCompiler"
-  }
-}]]></component>
-  <component name="RunManager" selected="JUnit.TestRunner">
-    <configuration name="Feature: ForgotLogIn" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/ForgotLogIn.feature" />
-      <option name="GLUE" value="StepDefinition" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="ParabankProject" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: ForgotLogIn" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Scenario: Verify error message is displayed next to address empty entry" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/ForgotLogIn.feature" />
-      <option name="GLUE" value="StepDefinition" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="ParabankProject" />
-      <option name="NAME_FILTER" value="^Verify error message is displayed next to address empty entry$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify error message is displayed next to address empty entry$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Verify error message is displayed next to address empty entry" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Scenario: Verify listed date on the main page is matching current date" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Feature: Date">
+    <configuration name="Feature: Date" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Date.feature" />
       <option name="GLUE" value="StepDefinition" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="ParabankProject" />
-      <option name="NAME_FILTER" value="^Verify listed date on the main page is matching current date$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify listed date on the main page is matching current date$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Verify listed date on the main page is matching current date" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Date" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -118,15 +91,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: Verify valid login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Verify Parasoft Demo Website Displayed" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Login.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/AboutUs.feature" />
       <option name="GLUE" value="StepDefinition" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="ParabankProject" />
-      <option name="NAME_FILTER" value="^Verify valid login$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify valid login$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Verify valid login" />
+      <option name="NAME_FILTER" value="^Verify Parasoft Demo Website Displayed$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify Parasoft Demo Website Displayed$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify Parasoft Demo Website Displayed" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -134,37 +107,28 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ParabankProject" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestRunner" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestRunner" />
-        <item itemvalue="Cucumber Java.Scenario: Verify error message is displayed next to address empty entry" />
-        <item itemvalue="Cucumber Java.Feature: ForgotLogIn" />
-        <item itemvalue="Cucumber Java.Scenario: Verify listed date on the main page is matching current date" />
-        <item itemvalue="Cucumber Java.Scenario: Verify valid login" />
+        <item itemvalue="Cucumber Java.Scenario: Verify Parasoft Demo Website Displayed" />
+        <item itemvalue="Cucumber Java.Feature: Date" />
+        <item itemvalue="Cucumber Java.Scenario: Verify Parasoft Demo Website Displayed" />
+        <item itemvalue="Cucumber Java.Feature: Date" />
+        <item itemvalue="Cucumber Java.Feature: Date" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="03af4e77-3d27-4647-99bf-d4edb9f00f4a" name="Default Changelist" comment="" />
-      <created>1661973373101</created>
+      <changelist id="525db399-cb8d-4877-a400-f4b4b2de41a9" name="Changes" comment="" />
+      <created>1662996183318</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1661973373101</updated>
+      <updated>1662996183318</updated>
     </task>
     <servers />
   </component>
